@@ -1,4 +1,11 @@
-	Doce
+	Doce:
+
 - Brigadeiro
 - Beijinho
 - Nutella
+
+	Salgado:
+
+- Coxinha
+- Kibe
+- Risole
