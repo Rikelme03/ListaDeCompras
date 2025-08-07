@@ -1,5 +1,5 @@
 	Carne:
 
-- Contra File 
-- Salmao
-- File Mignon
+- Porco
+- Sardinha
+- Picanha
