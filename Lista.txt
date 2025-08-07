@@ -10,3 +10,5 @@
 - Banana
 - Maca 
 - Melao
+- Abacaxi
+- Lichia
