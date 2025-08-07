@@ -2,4 +2,11 @@
 
 - Porco
 - Sardinha
-- Picanha
+- Bistecone
+
+
+	Frutas:
+
+- Banana
+- Maca 
+- Melao
